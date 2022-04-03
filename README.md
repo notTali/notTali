@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @notTali
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Talifhani Mulaudzi
+- 👀 I’m interested in Software Engineering/Development
+- 🌱 I’m currently doing my Final Year in Computer Science and Business Computing at The University of Cape Town.
+- 💞️ I’m looking to collaborate on any Software develpment projects.
+- 📫 How to reach me www.linkedin.com/in/talifhani-mulaudzi
 
 <!---
-notTali/notTali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
