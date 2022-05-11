@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering/Development
 - 🌱 I’m currently doing my Final Year in Computer Science and Business Computing at The University of Cape Town.
 - 💞️ I’m looking to collaborate on any Software develpment projects.
-- 📫 How to reach me: www.nottali.github.io www.linkedin.com/in/talifhani-mulaudzi
+- 📫 How to reach me: https://nottali.github.io/ www.linkedin.com/in/talifhani-mulaudzi
 
 <!---
 
