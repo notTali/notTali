@@ -1,5 +1,10 @@
 # 👋 Hi, I’m Talifhani Mulaudzi
 
+- 👀 I’m interested in Software Engineering/Development
+- 🌱 I’m currently doing my Final Year in Computer Science and Business Computing at The University of Cape Town.
+- 💞️ I’m looking to collaborate on any Software develpment projects.
+
+
 <p align ="center">
   <a  href="https://nottali.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
@@ -10,11 +15,6 @@
   </a>   
 </p>
   
-  
-- 👀 I’m interested in Software Engineering/Development
-- 🌱 I’m currently doing my Final Year in Computer Science and Business Computing at The University of Cape Town.
-- 💞️ I’m looking to collaborate on any Software develpment projects.
-
 <div>
 
   ## 📊 &nbsp;My Stats
