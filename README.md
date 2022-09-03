@@ -4,6 +4,8 @@
 - 🌱 I’m currently doing my Final Year in Computer Science and Business Computing at The University of Cape Town.
 - 💞️ I’m looking to collaborate on any Software develpment projects.
 
+<br/>
+<br/>
 
 <p align ="center">
   <a  href="https://nottali.github.io/" target="_blank">
@@ -15,6 +17,9 @@
   </a>  
   
 </p>
+
+<br/>
+<br/>
 
 <div>
 
@@ -39,6 +44,8 @@
 
 </div>
 
+<br/>
+<br/>
   
 <div>
 
