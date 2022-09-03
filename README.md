@@ -50,7 +50,9 @@
     <img align="center" alt="nottali" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottali&theme=midnight-blue&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
-
+<br/>
+<br/>
+<br/>
 <p align ="center">
  <img src="https://komarev.com/ghpvc/?username=nottali&color=blueviolet" alt="Profile views" />
   &nbsp;
