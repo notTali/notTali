@@ -49,17 +49,7 @@
   
 <div>
 
-  ## 📊 &nbsp;My Stats
-  <a href="https://github.com/nottali">
-    <img width=450 height=170 align="center" alt="nottali" src="https://github-readme-stats.vercel.app/api?username=nottali&theme=midnight-blue&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/nottali">
-    <img align="center" alt="nottali" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottali&theme=midnight-blue&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-</div>
-<br/>
-<br/>
-<br/>
+
 <p align ="center">
  <img src="https://komarev.com/ghpvc/?username=nottali&color=blueviolet" alt="Profile views" />
   &nbsp;
